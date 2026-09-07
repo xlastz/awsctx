@@ -14,6 +14,6 @@ targets = ["aarch64-apple-darwin", "aarch64-unknown-linux-gnu", "x86_64-apple-da
 # Where to host releases
 hosting = "github"
 # Homebrew tap to publish formulae to
-tap = "xlastz/homebrew-tap"
+tap = "ixxq/homebrew-tap"
 # Package manager publish jobs to run after release artifacts are hosted
 publish-jobs = ["homebrew"]

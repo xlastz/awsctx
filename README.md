@@ -20,22 +20,22 @@ Prebuilt binaries are available for macOS and Linux. Native Windows support is n
 
 ### Using the shell installer (macOS/Linux)
 ```sh
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/xlastz/awsctx/releases/download/v0.2.0/awsctx-installer.sh | sh
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/ixxq/awsctx/releases/download/v0.2.0/awsctx-installer.sh | sh
 ```
 
 ### Using Homebrew
 ```sh
-brew install xlastz/tap/awsctx
+brew install ixxq/tap/awsctx
 ```
 
 ### Using mise
 ```sh
-mise use -g github:xlastz/awsctx
+mise use -g github:ixxq/awsctx
 ```
 
 ### From source (Cargo)
 ```sh
-cargo install --git https://github.com/xlastz/awsctx
+cargo install --git https://github.com/ixxq/awsctx
 ```
 
 ## Shell Integration
