@@ -20,22 +20,22 @@ Prebuilt binaries are available for macOS and Linux. Native Windows support is n
 
 ### Using the shell installer (macOS/Linux)
 ```sh
-curl --proto '=https' --tlsv1.2 -LsSf https://github.com/lemtoc/awsctx/releases/download/v0.2.0/awsctx-installer.sh | sh
+curl --proto '=https' --tlsv1.2 -LsSf https://github.com/xrryx/awsctx/releases/download/v0.2.0/awsctx-installer.sh | sh
 ```
 
 ### Using Homebrew
 ```sh
-brew install lemtoc/tap/awsctx
+brew install xrryx/tap/awsctx
 ```
 
 ### Using mise
 ```sh
-mise use -g github:lemtoc/awsctx
+mise use -g github:xrryx/awsctx
 ```
 
 ### From source (Cargo)
 ```sh
-cargo install --git https://github.com/lemtoc/awsctx
+cargo install --git https://github.com/xrryx/awsctx
 ```
 
 ## Shell Integration
