@@ -4,8 +4,8 @@ version = "0.2.3"
 edition = "2024"
 description = "Switch AWS SSO profiles in the current shell"
 license = "MIT"
-repository = "https://github.com/xlastz/awsctx"
-homepage = "https://github.com/xlastz/awsctx"
+repository = "https://github.com/ixxq/awsctx"
+homepage = "https://github.com/ixxq/awsctx"
 
 [dependencies]
 anyhow = "1"
